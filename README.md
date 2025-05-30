@@ -1,6 +1,6 @@
 Olá eu sou o Paulo  👋
 <br>
- Tenho 23 anos estou seguindo nessa nova jornada da minha carreeira , Sou desenvolvedor front end de software com paixão por tecnologia Atualmente, estou focado em ser um Dev Full Stack.
+ Tenho 23 anos estou seguindo nessa nova jornada da minha carreeira , Sou desenvolvedor front end e Python , Criando minha carreira Dev . Sou de São Paulo , Atualmente trabalho em uma concessionaria . Mais o foco é aqui e ser um Dev Full Stack em Python e Web . Aprendendo para mudar minha Vida , Pra cima ! 
 
 Criando projetos com : 
 <br>
@@ -10,6 +10,7 @@ Criando projetos com :
 <br>
 📌 Javascript 
 <br>
+📌 Python 
 <br>
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-sst&show_icons=true&theme=dark)
 

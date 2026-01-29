@@ -1,6 +1,6 @@
 Olá eu sou o Paulo  👋
 <br>
- Tenho 23 anos estou seguindo nessa nova jornada da minha carreeira ,  Criando uma chance Dev . Sou de São Paulo , Atualmente trabalho em uma concessionaria . Mais o foco é aqui e ser um Dev Full Stack em Python e Web . Aprendendo para mudar minha Vida . 
+ Tenho 23 anos estou seguindo nessa nova jornada da minha carreira ,  Criando uma chance Dev . Sou de São Paulo , Atualmente trabalho em uma concessionaria . Mais o foco é aqui e ser um Dev Full Stack em Python e Web, Aprendendo para mudar minha Vida . 
 
 Criando projetos com : 
 <br>

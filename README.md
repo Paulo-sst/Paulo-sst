@@ -1,6 +1,6 @@
 Olá eu sou o Paulo  👋
 <br>
-Tenho 23 anos e sou apaixonado por tecnologia. Estou em transição de carreira, saindo da área automotiva para me tornar um Desenvolvedor Full Stack em Python e Web. Meu objetivo é conquistar meu primeiro estágio como Desenvolvedor Full Stack e evoluir minha carreira, transformando conhecimento em resultados positivos. 
+Tenho 24 anos e sou apaixonado por tecnologia. Estou em transição de carreira, saindo da área automotiva para me tornar um Desenvolvedor Full Stack em Python e Web. Meu objetivo é conquistar meu primeiro estágio como Desenvolvedor Full Stack e evoluir minha carreira, transformando conhecimento em resultados positivos. 
 
 
 Criando projetos com : 
